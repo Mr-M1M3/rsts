@@ -1,7 +1,7 @@
 {
   "name": "@mr-m1m3/rusts",
   "version": "0.0.1",
-  "description": "Rust l;ike utilities for typescript",
+  "description": "Rust liike utilities for typescript",
   "scripts": {
     "build": "tsc"
   },
