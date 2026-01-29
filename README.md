@@ -142,8 +142,8 @@ type ErrMsg = {
 };
 
 //                        +-------> ok variant or the value of a successfull operation
-//                        |  +-----> error variant or the value of a failed operation
-//                        |  |
+//                        | +-----> error variant or the value of a failed operation
+//                        | |
 //                Result<T, E>
 
 const ok_variant: Result<Data, ErrMsg> = Result.Ok({
